@@ -1,0 +1,4 @@
+Welcome to GitHub basic tutorial.
+
+1.login to github
+2.creating new repository
